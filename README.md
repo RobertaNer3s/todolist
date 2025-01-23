@@ -2,7 +2,7 @@
 
 Bem-vindo ao **TODO List**, uma API simples, elegante e poderosa para gerenciar suas tarefas como um verdadeiro(a) profissional! 🚀
 
-Este projeto foi desenvolvido como parte [deste desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para desenvolvedores(as) backend júnior que estão prontos para brilhar na Simplify. ✨
+Este projeto foi criado com base na aula do canal da @giulianabezerra, como parte de um estudo prático para consolidar conhecimentos em desenvolvimento backend. Ele também atende aos requisitos [deste desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para desenvolvedores(as) backend júnior, permitindo aplicar conceitos aprendidos e se preparar para oportunidades incríveis na Simplify. ✨✨
 
 ---
 
